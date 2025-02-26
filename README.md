@@ -1,1 +1,2 @@
-# Capstone-Project-variables-and-control-structuresand-
+# Capstone Project- Variables and control structures
+finance calculator
